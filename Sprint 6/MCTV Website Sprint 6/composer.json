@@ -1,0 +1,12 @@
+{
+    "name": "root/mctv",
+    "authors": [
+        {
+            "name": "larfoley",
+            "email": "lar_x87@yahoo.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^5.4"
+    }
+}
